@@ -1,36 +1,16 @@
-# Zelin Café - Website
+# Zelin Café Website  
 
-Welcome to **Zelin Café's** official website repository! This is a modern, responsive, and user-friendly static website designed to showcase the café's menu, ambiance, and services.
+## Overview  
+This website serves as the digital presence of **Zelin Café**, providing visitors with an easy way to explore the menu, read customer testimonials, learn about the team, and find essential café information. It enhances customer engagement and offers a seamless browsing experience.  
 
-## 🌟 Features
-- **Responsive Design** – Optimized for mobile and desktop viewing
-- **Elegant UI** – Aesthetic and easy-to-navigate layout
-- **Menu Page** – Displays food and drinks with images and descriptions
-- **Contact Section** – Includes location, social media links, and contact form
-- **Smooth Animations** – Enhances user experience with subtle transitions
+## Features  
+- **Menu Display** – Browse a categorized menu with descriptions and prices.  
+- **Customer Testimonials** – Showcases real customer feedback and reviews.  
+- **About the Team** – Introduces the café's staff and their roles.  
+- **General Information** – Includes café hours, location, and contact details.  
+- **Responsive Design** – Optimized for both desktop and mobile devices.  
 
-## 🛠️ Technologies Used
-- **HTML** – Structure of the website
-- **CSS (Bootstrap)** – Styling and responsiveness
-- **JavaScript** – Interactive elements (e.g., navbar, animations)
+## About the Project  
+This project was developed in **2023** during my second year of college for the subject *Integrative Programming 1*. It was designed to create an interactive and user-friendly website that enhances the online presence of **Zelin Café**, making it easy for customers to explore offerings and engage with the brand.
 
-## 📷 Screenshots
 ![Homepage Preview](images/zelin_website_screenshot.png)
-
-## 🚀 Live Demo
-Check out the live version here: [Zelin Café Website](https://hainzuuu.github.io/zelin-website/index.html)
-
-## 📌 Installation
-To run the website locally:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/zelin-cafe.git
-   ```
-2. Open `index.html` in a browser.
-
-## 📞 Contact
-For any inquiries or suggestions, feel free to reach out:
-📧 **Email:** johnhyneslongares@gmail.com  
-
----
-© 2024 John Hynes Longares. All rights reserved.
