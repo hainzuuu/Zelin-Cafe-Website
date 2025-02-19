@@ -31,7 +31,6 @@ To run the website locally:
 ## 📞 Contact
 For any inquiries or suggestions, feel free to reach out:
 📧 **Email:** johnhyneslongares@gmail.com  
-🌍 **Website:** [Your Portfolio](https://your-portfolio-link.com)
 
 ---
 © 2024 John Hynes Longares. All rights reserved.
