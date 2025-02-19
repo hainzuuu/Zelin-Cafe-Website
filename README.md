@@ -15,7 +15,7 @@ Welcome to **Zelin Café's** official website repository! This is a modern, resp
 - **JavaScript** – Interactive elements (e.g., navbar, animations)
 
 ## 📷 Screenshots
-![Homepage Preview](https://your-image-link.com)
+![Homepage Preview](images/zelin_website_screenshot.png)
 
 ## 🚀 Live Demo
 Check out the live version here: [Zelin Café Website](https://your-live-demo-link.com)
