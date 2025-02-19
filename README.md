@@ -18,7 +18,7 @@ Welcome to **Zelin Café's** official website repository! This is a modern, resp
 ![Homepage Preview](images/zelin_website_screenshot.png)
 
 ## 🚀 Live Demo
-Check out the live version here: [Zelin Café Website](https://your-live-demo-link.com)
+Check out the live version here: [Zelin Café Website](https://hainzuuu.github.io/zelin-website/index.html)
 
 ## 📌 Installation
 To run the website locally:
